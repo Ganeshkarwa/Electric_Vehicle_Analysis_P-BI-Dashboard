@@ -1,6 +1,8 @@
 # Electric_Vehicle_Analysis_P-BI-Dashboard
 Electric_Vehicle_Analysis_Power-BI-Dashboard
+
 🔍 Project Overview:
+
 Delved deep into the electric vehicle (EV) landscape, analyzing both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). Through insightful data visualization, I aimed to:
 
 Understand market size and growth trends 📈
@@ -19,6 +21,7 @@ Geographical distribution of EVs across states 🗺️
 Top 10 EV manufacturers by vehicle count 🏭
 Proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives 🌱
 Top 10 EV models based on vehicle count 🚘
+
 💡 Conclusion:
 This project provides a comprehensive understanding of the EV landscape, guiding strategic decision-making in the industry. As I continue to explore the vast field of data analytics, I'm excited to delve deeper into future projects and contribute to innovative solutions. 🌟
 
